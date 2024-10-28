@@ -1,0 +1,3 @@
+([('Steganographer',
+   '/Users/bohdanrijnyak/scripts/steganoapp/dist/Steganographer',
+   'EXECUTABLE')],)
